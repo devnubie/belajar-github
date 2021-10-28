@@ -1,0 +1,3 @@
+- konsisten belajar yang belum selesai
+- masterin version control
+- masterin Javascript
