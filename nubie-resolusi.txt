@@ -1,3 +1,5 @@
 - konsisten belajar yang belum selesai
 - masterin version control
 - masterin Javascript
+- belajar mobile app development
+- masterin mobile app development
